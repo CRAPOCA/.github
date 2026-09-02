@@ -1,4 +1,4 @@
-![CRAPOCA](./media/CRAPOCA%20Banner.png)
+![CRAPOCA](./media/Banner.png)
 
 # CRAPOCA
 Clube de Radioamadores de Poços de Caldas
